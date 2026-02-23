@@ -46,7 +46,7 @@ window.productCategories = [
                 description: "离心处理单元"
             },
             {
-                id: "t8-024",
+                id: "t8-004",
                 name: "离心机",
                 model: "SALTARS",
                 price: 100000,
@@ -54,7 +54,7 @@ window.productCategories = [
                 description: "独立离心机单元"
             },
             {
-                id: "t8-004",
+                id: "t8-005",
                 name: "开盖模块",
                 model: "SATLARS T8",
                 price: 70000,
@@ -492,3 +492,4 @@ window.afterSalesService = [
         year7: 168000
     }
 ];
+
