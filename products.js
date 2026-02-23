@@ -43,15 +43,15 @@ window.productCategories = [
                 model: "SATLARS T8",
                 price: 120000,
                 unit: "套",
-                description: "离心模块"
+                description: "离心处理单元"
             },
-             {
-                id: "t8-004",
+            {
+                id: "t8-024",
                 name: "离心机",
-                model: "SATLARS T8",
+                model: "SALTARS",
                 price: 100000,
                 unit: "台",
-                description: "高速离心机"
+                description: "独立离心机单元"
             },
             {
                 id: "t8-004",
@@ -492,4 +492,3 @@ window.afterSalesService = [
         year7: 168000
     }
 ];
-
